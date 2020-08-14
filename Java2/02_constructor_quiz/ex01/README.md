@@ -31,8 +31,3 @@ public static void main(String[] args) {
 		System.out.println(lottoResult2);
 	}
 ```  
-  
-### 정답 보기
-https://github.com/marobiana/lecture/blob/features/test/Java2/03_constructor_quiz/Lotto.java  
-https://github.com/marobiana/lecture/blob/features/test/Java2/03_constructor_quiz/LottoChecker.java  
-https://github.com/marobiana/lecture/blob/features/test/Java2/03_constructor_quiz/LottoTest.java
