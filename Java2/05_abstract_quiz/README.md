@@ -3,7 +3,7 @@
 * 1을 입력받으면 원을 달러로 변환(달러 입력), 2를 누르면 cm->inch로 변환(센티미터 입력)  
 * 변환의 비율은 검색해서 생성자에 넣으세요.  
 * 입출력 결과 화면  
-  ![input/output example](https://github.com/marobiana/lecture/blob/features/test/Java2/06_abstract_quiz/input_ex.JPG?raw=true)  
+  ![input/output example](https://github.com/marobiana/megait_java2_20200817/blob/master/Java2/05_abstract_quiz/input_ex.JPG)  
 
 ### Converter.java (추상클래스)
 ```
