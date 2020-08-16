@@ -9,8 +9,3 @@
 * 3. 출력결과  
 박둘리님의 신장 160, 몸무게 45kg => 정상입니다.  
 홍길동님의 신장 168, 몸무게 90kg => 비만입니다.
-  
-### 정답 보기
-https://github.com/marobiana/lecture/blob/features/test/Java2/04_inheritance_ex/ex02/HealthInfo.java
-https://github.com/marobiana/lecture/blob/features/test/Java2/04_inheritance_ex/ex02/HealthRate.java
-https://github.com/marobiana/lecture/blob/features/test/Java2/04_inheritance_ex/ex02/HealthTest.java
