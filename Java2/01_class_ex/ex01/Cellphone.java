@@ -2,7 +2,7 @@ package ex01;
 
 public class Cellphone {
 	// 속성: member 변수 또는 field - 명사로 짓기
-  // 접근제한자: default, public, protected, private
+  	// 접근제한자: default, public, protected, private
 	String maker = "apple";
 	String model = "iPhone11pro";
 	String color = "gold";
