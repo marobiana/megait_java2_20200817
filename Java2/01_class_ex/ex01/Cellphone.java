@@ -16,4 +16,12 @@ public class Cellphone {
 	public void camera() {
 		System.out.println("찰칵");
 	}
+	
+	public void setMaker(String maker) {
+		this.maker = maker	
+	}
+	
+	public String getMaker() {
+		return this.maker;
+	}
 }
