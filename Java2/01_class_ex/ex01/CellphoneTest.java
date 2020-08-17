@@ -23,8 +23,9 @@ public class CellphoneTest {
 		//System.out.println(cellphone1.maker);
 		//System.out.println(cellphone1.model);
 		
-    cellphone1.setMaker("samsung");
-    cellphone1.getMaker();
+    		cellphone1.setMaker("samsung");
+    		String maker = cellphone1.getMaker();
+		System.out.println(maker);
 	}
 
 }
