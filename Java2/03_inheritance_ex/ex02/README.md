@@ -17,6 +17,10 @@ public class HealthInfo {
 	protected int height;
 	protected int weight;
 	
+	public HealthInfo() {
+		// 기본 생성자 do nothing
+	}
+	
 	public HealthInfo(String name, int height, int weight) {
 		this.name = name;
 		this.height = height;
