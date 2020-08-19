@@ -22,6 +22,3 @@ public static void main(String[] args) {
 도형은 사각형이며 넓이는 91.0cm^2 입니다.  
 도형은 원이며 넓이는 452.38934cm^2 입니다.  
 ```
-  
-### 정답 보기
-https://github.com/marobiana/lecture/blob/features/test/Java2/05_polymorphism_quiz/ex01
