@@ -1,27 +1,30 @@
-## 문제) 다형성을 이용해서 도형의 넓이 구하기
-> 삼각형, 사각형, 원의 넓이를 구하고 출력한다.
-
-### ShapeTest.java
+## 문제) 다형성과 업캐스팅, 다운캐스팅 사용해보기  
+> Animal 배열에 객체를 담아서 업캐스팅, 다운캐스팅을 사용해서 출력해보세요.  
+  
+고양이와 개가 있다.  
+고양이와 개가 각각 3번씩 울음소리를 냈다.  
+그러고 나서 고양이는 그루밍을 했다.  
+개는 꼬리를 흔들었다.  
+  
+### AnimalTest.java  
 ```
 public static void main(String[] args) {
-		Shape[] shape = new Shape[3];
+		Animal[] animals = new Animal[2];
+		animals[0] = new Cat();
+		animals[1] = new Dog();
 		
-		// upcasting
-		shape[0] = new Triangle(8, 10);
-		shape[1] = new Rectangle(7, 13);
-		shape[2] = new Circle(12);
-
-		for (int i = 0; i < shape.length; i++) {
-			shape[i].printArea();
-		}
+		// TODO: 구현하기
 	}
 ```
-**결과**
+
+**결과**  
 ```
-도형은 삼각형이며 넓이는 40.0cm^2 입니다.  
-도형은 사각형이며 넓이는 91.0cm^2 입니다.  
-도형은 원이며 넓이는 452.38934cm^2 입니다.  
+야옹  
+야옹  
+야옹  
+멍멍  
+멍멍  
+멍멍  
+핥짝핥짝 그루밍  
+꼬리 흔들흔들  
 ```
-  
-### 정답 보기
-https://github.com/marobiana/lecture/blob/features/test/Java2/05_polymorphism_quiz/ex01
