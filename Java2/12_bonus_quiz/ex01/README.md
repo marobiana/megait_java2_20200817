@@ -1,5 +1,6 @@
 ## 문제) 기억력 게임
 > 뒤집혀진 카드 중 두 개의 같은 모양 카드를 뒤집으면 성공, 모두 뒤집어야 게임이 끝난다.   
+  
 ![예시](https://github.com/marobiana/megait_java2_20200817/blob/master/Java2/12_bonus_quiz/ex01/%EA%B8%B0%EC%96%B5%EB%A0%A5%EA%B2%8C%EC%9E%84.png)
 
 
