@@ -52,9 +52,4 @@
 		}
 	}
 ```  
-  
-### 정답 보기
-https://github.com/marobiana/lecture/tree/features/test/Java2/04_inheritance_quiz
 
-
-출처: 명품 JAVA
