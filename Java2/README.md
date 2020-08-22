@@ -44,7 +44,8 @@ this, super 키워드, 메소드 오버라이딩
 Collection 자료구조  
 List, Set, Map의 활용  
 > List 예제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_list_ex  
-> List 문제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_list_quiz  
+> List 문제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_list_quiz/ex01  
+> List 문제2: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_list_quiz/ex02  
   
 > Set 예제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_set_ex  
 > Set 문제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_set_quiz  
