@@ -1,3 +1,16 @@
+```
+    		int a = 0;
+		int b = 0; // 1. 숫자두개(됨), 2. String으로 변경(안됨), 3. 둘 다 스트링으로 변경(됨)
+		
+		Scanner scan = new Scanner(System.in);
+		a = scan.nextInt();
+		scan.nextLine();
+		b = scan.nextInt();
+		System.out.println(a + b);
+
+```
+
+
 ## 문제) List 입력, 출력, 삭제 하기  
   
 > List<Person> 입력, 출력, 삭제 하기  
