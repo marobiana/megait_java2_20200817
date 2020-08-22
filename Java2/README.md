@@ -46,12 +46,14 @@ List, Set, Map의 활용
 > List 예제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_list_ex  
 > List 문제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_list_quiz/ex01  
 > List 문제2: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_list_quiz/ex02  
+> List 문제3: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_list_quiz/ex03  
   
 > Set 예제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_set_ex  
 > Set 문제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_set_quiz  
   
 > Map 예제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_map_ex  
-> Map 문제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_map_quiz  
+> Map 문제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_map_quiz/ex01  
+> Map 문제2: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_map_quiz/ex02  
 
 > Collection 종합 문제: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_quiz   
 
