@@ -1,12 +1,12 @@
-package polypoly;
+package ex02;
 
 public class Dog extends Animal {
 	@Override
 	public void cry() {
-		System.out.println("¸Û¸Û");
+		System.out.println("ë©ë©");
 	}
 	
 	public void lash() {
-		System.out.println("²¿¸®Ä¡±â »ì¶û»ì¶û");
+		System.out.println("ê¼¬ë¦¬ì¹˜ê¸° ì‚´ë‘ì‚´ë‘");
 	}
 }
