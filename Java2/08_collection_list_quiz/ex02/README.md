@@ -18,6 +18,6 @@
 
 **예시 화면**  
   
-![list_quiz_ex](https://github.com/marobiana/lecture/blob/master/Java2/08_collection_list_quiz/list_ex.png?raw=true)
+![list_quiz_ex](https://github.com/marobiana/megait_java2_20200817/blob/master/Java2/08_collection_list_quiz/ex02/list_ex.png?raw=true)
 
 
