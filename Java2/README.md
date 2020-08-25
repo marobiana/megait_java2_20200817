@@ -56,7 +56,8 @@ List, Set, Map의 활용
 > Map 문제2: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_map_quiz/ex02  
 > Map 문제3: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_map_quiz/ex03  
 
-> Collection 종합 문제: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_quiz   
+> Collection 종합 문제1: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_quiz/ex01   
+> Collection 종합 문제2: https://github.com/marobiana/megait_java2_20200817/tree/master/Java2/08_collection_quiz/ex02   
 
 ## 09. 예외처리(Exception handling)  
 예외처리(Exception handling)  
