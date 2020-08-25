@@ -14,12 +14,12 @@
 		// [{닉네임=닉네임1, 직업=전사, 레벨=5}, {닉네임=닉네임1, 직업=전사, 레벨=5}...]
 		List<Map<String, String>> charaters = new ArrayList<>();
 		
-		Map<String, String> myCharacter = new HashMap<>();
-		myCharacter.put("닉네임", "마로비아나");
-		myCharacter.put("직업", "마법사");
-		myCharacter.put("서버", "B");
-		myCharacter.put("레벨", "38");
-		charaters.add(myCharacter);
+		//Map<String, String> myCharacter = new HashMap<>();
+		//myCharacter.put("닉네임", "마로비아나");
+		//myCharacter.put("직업", "마법사");
+		//myCharacter.put("서버", "B");
+		//myCharacter.put("레벨", "38");
+		//charaters.add(myCharacter);
 		
 		Map<String, String> character1 = new HashMap<>();
 		character1.put("닉네임", "사자고양이");
