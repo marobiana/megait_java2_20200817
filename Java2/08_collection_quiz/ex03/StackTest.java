@@ -1,16 +1,17 @@
-package stack;
+package ex03;
 
 public class StackTest {
 
 	public static void main(String[] args) {
+		// stack ë„£ê³  ì‹¶ì€ ê°’, ì‚­ì œí•˜ê³  ì‹¶ì€ ê°’ .... 
 		Stack stack = new Stack();
-		stack.push("»¡");
-		stack.push("ÁÖ");
-		stack.push("³ë");
-		stack.push("ÃÊ");
-		stack.push("ÆÄ");
-		stack.push("³²");
-		stack.push("º¸");
+		stack.push("ë¹¨");
+		stack.push("ì£¼");
+		stack.push("ë…¸");
+		stack.push("ì´ˆ");
+		stack.push("íŒŒ");
+		stack.push("ë‚¨");
+		stack.push("ë³´");
 		System.out.println(stack.pop());
 		System.out.println(stack.pop());
 		System.out.println(stack.pop());
