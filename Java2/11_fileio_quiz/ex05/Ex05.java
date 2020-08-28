@@ -1,16 +1,16 @@
-package ex05;
+package quiz05;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Ex05 {
+public class Quiz05 {
 
 	public static void main(String[] args) throws IOException {
-		FileInputStream fis = new FileInputStream("src/ex05/input.txt"); // ¿î¿µÃ¼Á¦¿¡ ÀÖ´Â ÆÄÀÏ °¡Á®¿À±â(byte·Î °¡Á®¿È)
-		InputStreamReader isr = new InputStreamReader(fis, "utf-8"); // byte-> ¹®ÀÚ·Î º¯È¯, µÎ ¹øÂ° ÆÄ¶ó¹ÌÅÍ´Â ¹®ÀÚ ÀÎÄÚµù(ÇÑ±Û ±úÁüX)
-		BufferedReader br = new BufferedReader(isr); // ÇÑ ÁÙ¾¿ ÀĞ¾î µéÀÌ±â À§ÇÔ
+		FileInputStream fis = new FileInputStream("src/ex05/input.txt"); // ìš´ì˜ì²´ì œì— ìˆëŠ” íŒŒì¼ ê°€ì ¸ì˜¤ê¸°(byteë¡œ ê°€ì ¸ì˜´)
+		InputStreamReader isr = new InputStreamReader(fis, "utf-8"); // byte-> ë¬¸ìë¡œ ë³€í™˜, ë‘ ë²ˆì§¸ íŒŒë¼ë¯¸í„°ëŠ” ë¬¸ì ì¸ì½”ë”©(í•œê¸€ ê¹¨ì§X)
+		BufferedReader br = new BufferedReader(isr); // í•œ ì¤„ì”© ì½ì–´ ë“¤ì´ê¸° ìœ„í•¨
 		
 		String readLine = br.readLine();
 		String str = br.readLine();
@@ -35,7 +35,7 @@ public class Ex05 {
 	}
 	
 	public static int yungsik(Integer callTime) {
-		return ((callTime / 30) + 1) * 10; // callTime / 30ÀÌ ±¸°£ÀÌ´Ù. 0±¸°£¿¡ 10¿øÀÌ µÇ¾î¾ß ÇÏ¹Ç·Î 1À» ´õÇØÁÜ. 1±¸°£À¸·Î ¶¯±è
+		return ((callTime / 30) + 1) * 10; // callTime / 30ì´ êµ¬ê°„ì´ë‹¤. 0êµ¬ê°„ì— 10ì›ì´ ë˜ì–´ì•¼ í•˜ë¯€ë¡œ 1ì„ ë”í•´ì¤Œ. 1êµ¬ê°„ìœ¼ë¡œ ë•¡ê¹€
 	}
 	
 	public static int minsik(Integer callTime) {
