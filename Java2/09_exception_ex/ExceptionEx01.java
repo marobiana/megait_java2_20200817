@@ -46,11 +46,11 @@ public class ExceptionTest {
 		a();
 	}
 
-	public static void a() throws Exception {
+	public static void a() throws Exception { // throws: 예외를 상위 메소드에 던짐
 		b();
 	}
 	
-	public static void b() throws Exception {
-		throw new Exception();
+	public static void b() throws Exception { // throws: 예외를 상위 메소드에 던짐
+		throw new Exception(); // throw: 임의로 예외 발생
 	}
 }
