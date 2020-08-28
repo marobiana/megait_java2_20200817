@@ -1,16 +1,16 @@
-package ex04;
+package quiz04;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Ex04 {
+public class Quiz04 {
 
 	public static void main(String[] args) throws IOException {
-		FileInputStream fis = new FileInputStream("src/ex04/input.txt"); // ¿î¿µÃ¼Á¦¿¡ ÀÖ´Â ÆÄÀÏ °¡Á®¿À±â(byte·Î °¡Á®¿È)
-		InputStreamReader isr = new InputStreamReader(fis, "utf-8"); // byte-> ¹®ÀÚ·Î º¯È¯, µÎ ¹øÂ° ÆÄ¶ó¹ÌÅÍ´Â ¹®ÀÚ ÀÎÄÚµù(ÇÑ±Û ±úÁüX)
-		BufferedReader br = new BufferedReader(isr); // ÇÑ ÁÙ¾¿ ÀĞ¾î µéÀÌ±â À§ÇÔ
+		FileInputStream fis = new FileInputStream("src/ex04/input.txt"); // ìš´ì˜ì²´ì œì— ìˆëŠ” íŒŒì¼ ê°€ì ¸ì˜¤ê¸°(byteë¡œ ê°€ì ¸ì˜´)
+		InputStreamReader isr = new InputStreamReader(fis, "utf-8"); // byte-> ë¬¸ìë¡œ ë³€í™˜, ë‘ ë²ˆì§¸ íŒŒë¼ë¯¸í„°ëŠ” ë¬¸ì ì¸ì½”ë”©(í•œê¸€ ê¹¨ì§X)
+		BufferedReader br = new BufferedReader(isr); // í•œ ì¤„ì”© ì½ì–´ ë“¤ì´ê¸° ìœ„í•¨
 		
 		String readLine = br.readLine();
 		Integer count = Integer.parseInt(readLine);
